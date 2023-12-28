@@ -50,14 +50,6 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]DRAMA[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/S9ebkgd.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/tLsc8SCFO0rMVgVyNm9XtfnyX84.jpg</fanart>
-<info>[COLOR blue]OS MELHORES FILMES DE DRAMA![/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/GIF553/generosf/main/drama</externallink>
-</channel>
-
-<channel>
 <name>[B][COLOR white]ROMANCE[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/S9ebkgd.jpg</thumbnail>
 <fanart>https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/5801/assets/269782/large-e0c67483a9a701ad7576c7c7a111ac48.jpg</fanart>
@@ -86,7 +78,7 @@
 <thumbnail>https://i.imgur.com/S9ebkgd.jpg</thumbnail>
 <fanart>https://www.cineset.com.br/wp-content/uploads/2015/02/fury_movie-wide.jpg</fanart>
 <info>[COLOR blue]OS MELHORES FILMES DE TERROR,SUSPENSE E MISTÉRIO![/COLOR]</info>
-<externallink>https:/</externallink>
+<externallink>https:</externallink>
 </channel>
 
 </channels>
