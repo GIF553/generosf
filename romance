@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- <items>
+<items>
+
+<item>
+<title>[B]Sol Lunar (2023)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff4f1ae509a80b44773fafba0bc540921655eae1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x29rKMGLUrQ2W2U8oNPpMC2guwR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/j9gphIW1omdzoftidw2cgfLufvX.jpg</fanart>
+<info>Quando Kelsey é deixada no altar, a dor e a humilhação a fazem questionar os planos de Deus para ela. Em busca de propósito e esperança, ela viaja para Taiwan para dar aulas de inglês. Que coisas virão desse salto de fé?</info>
+</item>
 
 <item>
 <title>[B]Coisas Divertidas Sobre o Amor (2021)[/B]</title>
