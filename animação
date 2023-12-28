@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <items>
 
+<item>
+<title>[B]Frozen: Uma Aventura Congelante (2013)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3883d0e32a18b0b1fe8247d4d1003dbd49caa121</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hOZKUJGN0m717LRSQDxhgABqWrf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/fydUcbkqLyESCFa9U5XKqi8dIVj.jpg</fanart>
+<info>A destemida e otimista Anna sai em uma jornada épica, ao lado de Kristoff e sua leal rena Sven, para encontrar sua irmã Elsa, cujos poderes congelantes aprisionaram o reino de Arendelle em um inverno eterno. Encontrando condições de Everest, trolls místicos e um hilário boneco de neve chamado Olaf, Anna e Kristoff enfrentam obstáculos em uma corrida para salvar o reino..</info>
+<genre> Animação, Família, Aventura, Fantasia 1h 42m</genre>
+</item>
 
+<item>
+<title>[B]Frozen 2 (2019)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b32c3e984b7baa86aed2cbcecb024e898d2c2e4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y2pvlZsqGcXKT4S7nUdvYfETG5r.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg</fanart>
+<info>Elsa, Anna, Kristoff, Olaf e Sven se aventuram na floresta encantada e nos mares escuros além de Arendelle – onde Elsa descobre não apenas a verdade sobre seu passado, mas uma ameaça ao seu reino..</info>
+<genre> Família, Animação, Aventura, Comédia, Fantasia 1h 43m</genre>
+</item>
+
+<item>
+<title>[B]O Expresso Polar (2004)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d570be1fcd1bc355e50087e83c5321a1721dda04</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5JfuyhzCDxlBwmJnqLAoswshdLk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/vQuIi5iOCN3V6yg7nbP5HUiVnpK.jpg</fanart>
+<info>Acorde, caia na real e esteja pronto para a jornada de sua vida! É véspera de Natal e um garoto está acordado. Sem acreditar mais em Papai Noel, ele espera por algo que faça com que sua crença na figura natalina retorne. De repente ele ouve um grande barulho, de fora de sua casa. O garoto então vê à sua frente um gigantesco trem negro com destino ao Pólo Norte, cujo condutor o convida para embarcar. Após certa relutância, ele decide seguir viagem. Você está prestes a embarcar em uma verdadeira montanha-russa que o levará para cima e para baixo através de montanhas, campos gelados e pontes gigantescas, saboreando chocolate quente. Você está a bordo do Expresso Polar!.</info>
+<genre> Animação, Família, Aventura, Fantasia, Comédia 1h 40m</genre>
+</item>
+
+<item>
+<title>[B]Operação Big Hero (2014)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9feede0d1be4086394225cb81253c29c0ee30037</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5EodFesjReSDlX1c0I5ANZijBFy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/wURLf7FW0WYytXl9aeYu5dTbmAT.jpg</fanart>
+<info>O grande robô inflável está sempre a postos para cuidar de Hiro Hamada. Quando algo devastador assola a cidade, o menino prodígio, seus amigos e o robô formam um grupo de heróis para combater o mal..</info>
+<genre> Aventura, Família, Animação, Ação, Comédia 1h 42m</genre>
+</item>
 
 <item>
 <title>[B]O Rei Leão (1994)[/B]</title>
