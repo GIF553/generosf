@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <items>
 
+
+<item>
+<title>[B]Kill Bill: 1 e 2 (2003-2004)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89ca060a2ba52564820ce52aa37f8eb185ba9ef0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mGtkS8YsGNlK6zSeZB7f2eNNRER.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/oCLKNACMNrEf4T1EP6BpMXDl5m1.jpg</fanart>
+<info>The Kill Bill Collection é uma série de emocionantes dramas de vingança dirigidos por Quentin Tarantino. Inspirados em filmes de artes marciais de Hong Kong, filmes de samurais japoneses e westerns spaghetti italianos, esses filmes são caracterizados por sua violência estilizada, referências à cultura pop e uso extensivo de música popular. Apresentando Uma Thurman no papel icônico de A Noiva, os filmes Kill Bill se tornaram clássicos cult que continuam a cativar o público em todo o mundo.</info>
+</item>
+
 <item>
 <title>[B]007 James Bond: Coleção (1962-2016)[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5657259266875D041EA818D3151E618779BA14F7</link>
