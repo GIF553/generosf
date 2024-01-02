@@ -574,5 +574,13 @@
 <info>Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.</info>
 </item>
 
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>THUMBNAILDOFILME</thumbnail>
+<fanart>FANARTOFILME</fanart>
+<info>TEXTODESINOPSE.</info>
+</item> 
+
 
 </items>
